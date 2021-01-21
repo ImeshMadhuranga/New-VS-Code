@@ -1,6 +1,6 @@
 <?php
 
-<table class="table">
+<table class="table1">
   <thead>
     <tr>
       <th scope="col">#</th>
